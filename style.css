@@ -1,0 +1,18 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 40px;
+  background: #f0f0f0;
+}
+h1 {
+  color: #333;
+}
+input, button {
+  margin-top: 10px;
+  padding: 10px;
+}
+pre {
+  background: #fff;
+  padding: 20px;
+  margin-top: 20px;
+  border: 1px solid #ccc;
+}
